@@ -1,0 +1,7 @@
+F:\Windows\Code\DICOM\DICOM\DICOM\bin\Debug\DICOM.exe.config
+F:\Windows\Code\DICOM\DICOM\DICOM\bin\Debug\DICOM.exe
+F:\Windows\Code\DICOM\DICOM\DICOM\bin\Debug\DICOM.pdb
+F:\Windows\Code\DICOM\DICOM\DICOM\obj\Debug\DICOM.csprojResolveAssemblyReference.cache
+F:\Windows\Code\DICOM\DICOM\DICOM\obj\Debug\DICOM.csproj.CoreCompileInputs.cache
+F:\Windows\Code\DICOM\DICOM\DICOM\obj\Debug\DICOM.exe
+F:\Windows\Code\DICOM\DICOM\DICOM\obj\Debug\DICOM.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DCMLIB.DCMAbstractType">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAgAAAEAEAAAABAAABEACAAAAAAABAAQAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMDataElement">
+    <Position X="11" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMDataSet">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAECAgAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMDataItem" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMDataSequence" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMFile">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMFileMeta">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
